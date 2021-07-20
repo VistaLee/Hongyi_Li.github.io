@@ -20,4 +20,4 @@ Preprint. [[paper]](https://www.researchgate.net/publication/351744585_Towards_Q
 
 Junxiang Wang, **Hongyi Li**, Yongchao Wang, and Liang Zhao. 
 Accelerated Gradient-free Neural Network Training by Multi-convex Alternating Optimization.
-Accepted by Workshop on ”Beyond first-order methods in ML systems” of the 38th International Conference on Machine Learning. [paper]
+Accepted by Workshop on ”Beyond first-order methods in ML systems” of the 38th International Conference on Machine Learning. [[paper]](https://arxiv.org/abs/1811.04187)[[video]](https://www.youtube.com/watch?v=qN_1_JvYN-w)
